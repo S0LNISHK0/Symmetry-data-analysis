@@ -1,0 +1,14 @@
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\bin\Debug\Turb.exe.config
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\bin\Debug\Turb.exe
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\bin\Debug\Turb.pdb
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\bin\Debug\Interop.VBIDE.dll
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\shablon.csproj.AssemblyReference.cache
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\Interop.VBIDE.dll
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\shablon.csproj.ResolveComReference.cache
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\shablon.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\Turb.exe
+C:\Users\Alexey\YandexDisk\Dynamo_Kazantsev\Модель Казанцев-v3\JHU_tcorr\0-shablon\Turb\obj\Debug\Turb.pdb

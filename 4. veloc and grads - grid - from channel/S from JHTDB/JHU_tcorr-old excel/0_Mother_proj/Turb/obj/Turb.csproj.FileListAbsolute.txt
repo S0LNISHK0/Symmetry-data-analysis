@@ -1,0 +1,13 @@
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\ResolveAssemblyReference.cache
+C:\JHTD\Turbulence#\Turb\Turb\bin\Debug\Turb.exe.config
+C:\JHTD\Turbulence#\Turb\Turb\bin\Debug\Turb.exe
+C:\JHTD\Turbulence#\Turb\Turb\bin\Debug\Turb.pdb
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\Turb.exe
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\Turb.pdb
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\Interop.VBIDE.dll
+C:\JHTD\Turbulence#\Turb\Turb\obj\Debug\Turb.csproj.ResolveComReference.cache
+C:\JHTD\Turbulence#\Turb\Turb\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\JHTD\Turbulence#\Turb\Turb\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\JHTD\Turbulence#\Turb\Turb\bin\Debug\Interop.VBIDE.dll

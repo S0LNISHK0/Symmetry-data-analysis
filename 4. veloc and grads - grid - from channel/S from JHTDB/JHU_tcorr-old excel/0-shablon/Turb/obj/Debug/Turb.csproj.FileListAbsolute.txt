@@ -1,0 +1,47 @@
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\bin\Debug\Turb.exe.config
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\obj\Debug\Interop.VBIDE.dll
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\obj\Debug\Turb.csproj.ResolveComReference.cache
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\obj\Debug\Turb.exe
+C:\Users\Леша\ФИАН\Наука\Асп2\JHTU Database\Alex\Turb\Turb\obj\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\bin\Debug\Turb.exe.config
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.csproj.ResolveComReference.cache
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\bin\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\bin\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.csprojResolveAssemblyReference.cache
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\bin\Debug\Turb.exe.config
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.csproj.ResolveComReference.cache
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.exe
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\bin\Debug\Turb.exe
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\bin\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\bin\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\Alex\Turb\Turb\obj\Debug\Turb.csprojResolveAssemblyReference.cache
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\bin\Debug\Turb.exe.config
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\obj\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\obj\Debug\Turb.csproj.ResolveComReference.cache
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\obj\Debug\Turb.exe
+C:\Users\Леша\Dropbox\GaussArticle\JHU Database GaussArticle\Turb\Turb\obj\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\bin\Debug\Turb.exe.config
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Turb.csproj.ResolveComReference.cache
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Turb.exe
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\bin\Debug\Turb.exe
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\bin\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\bin\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb\Turb\obj\Debug\Turb.csprojResolveAssemblyReference.cache

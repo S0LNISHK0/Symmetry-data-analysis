@@ -1,0 +1,17 @@
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Turb.exe.config
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\gradsloc.csproj.ResolveComReference.cache
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Turb.exe
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Turb.exe
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Turb.pdb
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Interop.VBIDE.dll
+C:\Users\Леша\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\gradsloc.csprojResolveAssemblyReference.cache
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\bin\Debug\Turb.exe.config
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\gradsloc.csproj.ResolveComReference.cache
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5_Turb_grads_loc\Turb\obj\Debug\Turb.pdb

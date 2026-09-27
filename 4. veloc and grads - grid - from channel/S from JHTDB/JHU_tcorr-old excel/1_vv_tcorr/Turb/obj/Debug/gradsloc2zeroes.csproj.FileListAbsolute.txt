@@ -1,0 +1,7 @@
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\bin\Debug\Turb.exe.config
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\obj\Debug\gradsloc2zeroes.csproj.ResolveComReference.cache
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\obj\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\obj\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\bin\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\bin\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\5.2_Turb_grads_locv+absw_zeroes\Turb\obj\Debug\gradsloc2zeroes.csprojResolveAssemblyReference.cache

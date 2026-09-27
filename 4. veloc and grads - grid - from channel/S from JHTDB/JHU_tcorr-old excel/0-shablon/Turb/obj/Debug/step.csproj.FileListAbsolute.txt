@@ -1,0 +1,14 @@
+C:\Users\ezik\Desktop\Turb_step\Turb\bin\Debug\Turb.exe.config
+C:\Users\ezik\Desktop\Turb_step\Turb\obj\Debug\step.csproj.ResolveComReference.cache
+C:\Users\ezik\Desktop\Turb_step\Turb\obj\Debug\Turb.exe
+C:\Users\ezik\Desktop\Turb_step\Turb\obj\Debug\Turb.pdb
+C:\Users\ezik\Desktop\Turb_step\Turb\bin\Debug\Turb.exe
+C:\Users\ezik\Desktop\Turb_step\Turb\bin\Debug\Turb.pdb
+C:\Users\ezik\Desktop\Turb_step\Turb\obj\Debug\step.csprojResolveAssemblyReference.cache
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\bin\Debug\Turb.exe.config
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\obj\Debug\step.csproj.ResolveComReference.cache
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\obj\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\obj\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\bin\Debug\Turb.exe
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\bin\Debug\Turb.pdb
+C:\Users\ezik\Dropbox\Учет кубического коррелятора скорости\JHU Database 3p\Turb_step\Turb\obj\Debug\step.csprojResolveAssemblyReference.cache
